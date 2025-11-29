@@ -1,3 +1,6 @@
 aiogram
 APScheduler
 python-decouple
+googleapiclient
+tenacity
+datetime
